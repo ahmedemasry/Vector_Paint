@@ -1,0 +1,18 @@
+{
+	"shape":{
+		"type":"Cirlce",
+		"x" : "50.0",
+		"y" : "60.0",
+		"Radius":"100.0",
+		"Center_Y":"50.0",
+		"Center_X":"50.0"
+	},
+	"shape":{
+		"type":"Cirlce",
+		"x" : "50.0",
+		"y" : "60.0",
+		"Radius":"100.0",
+		"Center_Y":"50.0",
+		"Center_X":"50.0"
+	}
+}
