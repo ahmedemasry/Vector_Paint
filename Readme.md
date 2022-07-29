@@ -1,2 +1,5 @@
 # Vector Paint
-An OOP Painting Application with GUI and features like save/load, undo/redo, and dynamically loading unsupported shape classes.
+An OOP Painting Application with GUI and features like:
+- Save/Load.
+- Undo/Redo.
+- Dynamically loading unsupported shape classes.
